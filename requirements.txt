@@ -16,7 +16,7 @@ Django==2.2
 django-cors-headers==2.3.0
 djangorestframework==3.8.2
 djangorestframework-simplejwt==3.2.3
-ecdsa==0.13
+ecdsa==0.13.3
 esptool==2.5.1
 Flask==1.0.2
 Flask-Cors==3.0.6
