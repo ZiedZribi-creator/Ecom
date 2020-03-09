@@ -60,5 +60,5 @@ txaio==18.8.1
 urllib3==1.23
 virtualenv==16.0.0
 websocket-client==0.48.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 zope.interface==4.6.0
