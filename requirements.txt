@@ -14,7 +14,7 @@ constantly==15.1.0
 daphne==2.2.4
 Django==2.2
 django-cors-headers==2.3.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-simplejwt==3.2.3
 ecdsa==0.13
 esptool==2.5.1
