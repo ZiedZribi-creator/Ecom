@@ -28,7 +28,7 @@ imutils==0.5.1
 incremental==17.5.0
 iso8601==0.1.12
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 numpy==1.15.2
 opencv-contrib-python==3.4.5.20
