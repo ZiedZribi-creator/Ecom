@@ -2,7 +2,7 @@ adafruit-ampy==1.0.7
 asgiref==2.3.2
 async-timeout==3.0.1
 attrs==18.2.0
-autobahn==18.12.1
+autobahn==20.12.3
 Automat==0.7.0
 beautifulsoup4==4.8.0
 bs4==0.0.1
